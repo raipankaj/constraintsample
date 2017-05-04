@@ -12,6 +12,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".BiasActivity" />
+        <activity android:name=".ChainActivity" />
+        <activity android:name=".GeneralActivity" />
+        <activity android:name=".GuidelineActivity" />
+        <activity android:name=".RatioActivity" />
     </application>
 
 </manifest>

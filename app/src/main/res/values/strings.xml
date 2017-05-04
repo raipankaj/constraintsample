@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ConstraintSample</string>
+
+    <string-array name="example_list">
+        <item>General</item>
+        <item>Chain</item>
+        <item>Ratios</item>
+        <item>Guidelines</item>
+        <item>Bias</item>
+    </string-array>
 </resources>
